@@ -84,19 +84,6 @@ LZMW (Lempel-Ziv-Miller-Wegman) is a dictionary-based compression algorithm that
 - The dictionary grows as compression proceeds, capturing longer patterns
 - The compression ratio depends on the nature of the input data
 
-## Example Use Cases
-
-- Text compression for storage or transmission
-- Educational tool for understanding dictionary-based compression algorithms
-- Analyzing compression effectiveness on different types of text data
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[MIT License](LICENSE)
 
 ## Acknowledgments
 
